@@ -1,0 +1,8 @@
+{
+  "name": "Lumina Read",
+  "description": "A smart reading companion that captures, transcribes, and organizes your book highlights using AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
